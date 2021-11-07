@@ -7,4 +7,4 @@ I have also used notifyAll() method to make an application wait for users input.
 
 @author Michal Switala
 Copyright © 2021 belongs solely to Michal Switala. 
-You can reach me out on : https://github.com/michaelP
+You can reach me out on : https://github.com/michaelPro89
